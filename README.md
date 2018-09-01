@@ -1,8 +1,12 @@
 # Home-Default-Risk
 ● Motive of the project is to predict how capable each applicant is of repaying loan.
+
 ● Imported Data supplied by Home credit company from several data sources.
+
 ● Joined multiple datasets and Performed extensive data cleaning, feature engineering operations.
+
 ● Developed a model using LightGBM classifier with optimal parameters.
+
 ● This model achieved 0.76 AUC.
  
 # Description about Data
