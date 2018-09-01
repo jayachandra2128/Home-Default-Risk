@@ -9,6 +9,9 @@
 
 ● This model achieved 0.76 AUC.
  
+Download the data from https://www.kaggle.com/c/home-credit-default-risk/data, place into the data folder and unzip all files.
+ 
+ 
 # Description about Data
 
 # application_{train|test}.csv
