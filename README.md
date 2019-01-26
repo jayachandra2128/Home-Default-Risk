@@ -7,7 +7,7 @@
 
 ● Developed a model using LightGBM classifier with optimal parameters.
 
-● This model achieved 0.76 AUC.
+● This model achieved 0.783 AUC.
  
 Download the data from https://www.kaggle.com/c/home-credit-default-risk/data, place into the data folder and unzip all files.
  
